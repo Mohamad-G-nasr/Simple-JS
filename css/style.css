@@ -1,6 +1,6 @@
 ul {
     width: 80%; 
-    height: 500px;
+    height: 550px;
     display: grid;
     grid-template-columns: repeat(4,1fr);
     list-style-type: none;
